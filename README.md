@@ -1,0 +1,1 @@
+# logseq-bear-2-theme
