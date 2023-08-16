@@ -225,3 +225,23 @@ tr:last-of-type td:last-of-type {
 .recent-item > a > :first-child {
   margin-left: 16px;
 }
+
+.light-theme button:hover {
+    color: #FFFFFF;
+}
+
+.light-theme a.button:hover {
+    color: #FFFFFF;
+}
+
+.light-theme a.group.active {
+    color: #FFFFFF;
+}
+
+.light-theme a.group:hover {
+    color: #FFFFFF;
+}
+
+.light-theme .cp__sidebar-left-layout a:hover {
+        color: #FFFFFF !important;
+}
