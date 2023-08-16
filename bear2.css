@@ -217,3 +217,11 @@ tr:last-of-type td:last-of-type {
 .open-block-ref-link {
   border: solid 1px var(--ls-border-color);
 }
+
+.favorite-item > a > :first-child {
+  margin-left: 16px;
+}
+
+.recent-item > a > :first-child {
+  margin-left: 16px;
+}
