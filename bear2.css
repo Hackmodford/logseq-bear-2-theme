@@ -242,6 +242,22 @@ tr:last-of-type td:last-of-type {
     color: #FFFFFF;
 }
 
+a:hover {
+  color: var(--ls-link-ref-text-color) !important;
+}
+
+.page-reference:hover {
+  background: none;
+}
+
+.references-blocks .page-reference:hover {
+  background: none;
+}
+
+.light-theme .left-sidebar-inner .nav-content-item .header:hover .wrap-th>span {
+  color: #FFFFFF;
+}
+
 .light-theme .cp__sidebar-left-layout a:hover {
         color: #FFFFFF !important;
 }
