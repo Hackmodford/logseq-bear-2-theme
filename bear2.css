@@ -220,6 +220,7 @@ tr:last-of-type td:last-of-type {
   border: solid 1px var(--ls-border-color);
 }
 
+/*
 .favorite-item > a > :first-child {
   margin-left: 16px;
 }
@@ -227,6 +228,7 @@ tr:last-of-type td:last-of-type {
 .recent-item > a > :first-child {
   margin-left: 16px;
 }
+*/
 
 .light-theme button:hover {
     color: #FFFFFF;
