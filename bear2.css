@@ -185,12 +185,13 @@ div > span.block-ref > div.block-content {
 
 table {
   border-collapse:separate;
-  border:solid var(--ls-border-color) 1px;
+  border-spacing: 0;
+  border:solid 0.5px var(--ls-border-color);
   border-radius:4px;
 }
 
-table td + td { border-left:1px solid var(--ls-border-color); }
-table th + th { border-left:1px solid var(--ls-border-color); }
+table td { border:0.5px solid var(--ls-border-color); }
+table th { border:0.5px solid var(--ls-border-color); }
 
 th {
   border-bottom: none !important;
